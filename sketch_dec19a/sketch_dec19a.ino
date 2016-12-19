@@ -9,5 +9,6 @@ void loop()
 {
   Serial.println(digitalRead(2));
   delay(100);
+  Serial.println("random change");
 
 }
